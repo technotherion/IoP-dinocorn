@@ -10,7 +10,7 @@ When one connects to the Dinocorn's speech portal, they are met with a box askin
 
 Dinocorn features a prominent antenna from its head as well as a smaller antenna in its tail. The larger antenna is used to broadcast the hotspot, whilst the smaller antenna is used to connect to an open wireless connection. Mainly the repeater functionality acts as a convenience and as a way to troubleshoot the Dinocorn when something isn't working. 
 
-##Software and Hardware
+## Software and Hardware
 
 The Dinocorn consists of a Raspberry Pi Zero (1.3), a Li-Po Shim from Pimeroni, and two wireless adapters. 
 The plush shell is made of fleece fabric, felt for details, and thread. 
