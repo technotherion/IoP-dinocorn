@@ -16,3 +16,6 @@ The Dinocorn consists of a Raspberry Pi Zero (1.3), a Li-Po Shim from Pimeroni, 
 The plush shell is made of fleece fabric, felt for details, and thread. 
 
 The captive portal is adapted from the NoDogSplash repository. 
+
+* dnsmasq
+* hostadp
